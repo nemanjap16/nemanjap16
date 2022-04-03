@@ -2,7 +2,6 @@
 
 I mostly work on frontend projects in the ReactJS framework, I love ReactJS, and I try to learn as much as possible about the ecosystem and the libraries that are used. I use all my free time for learning and training. I started programming out of curiosity and because I have always been attracted to internet technologies. Now I can say that programming has become my passion.
 
-I’m currently learning ReactJS & Redux for frontend & NodeJS, ExpressJS and MongoDB for backend. Also learning Vue3 & NuxtJS.
 
 <!--
 **NemanjaP83/NemanjaP83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Nemanja_Pantelic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134//)](https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/) [![Gmail Badge](https://img.shields.io/badge/-necaintruder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necaintruder@gmail.com)](mailto:necaintruder@gmail.com)
 
-![Nemanja's github stats](https://github-readme-stats.vercel.app/api?username=NemanjaP83&show_icons=true&theme=dark)
+![Nemanja's github stats](https://github-readme-stats.vercel.app/api?username=nemanjap16&show_icons=true&theme=dark)
