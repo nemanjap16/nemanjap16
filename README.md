@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m looking for internship or job
+## I'm frontend developer
 - 📫  If you think that I can help and be part of your team, feel free to contact me. I'll be happy to answer.
 - 😄 Love to work with ReactJS :heart:
 - ⚡ VueJS 3 is awesome!
