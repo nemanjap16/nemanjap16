@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nemanja Pantelić.
 
-## I'm fornt-end developer
-## Love to work with React 
+### I'm fornt-end developer
+### Love to work with React 
 
 
 <!--
