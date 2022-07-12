@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Nemanja_Pantelic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134//)](https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/) [![Gmail Badge](https://img.shields.io/badge/-necaintruder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necaintruder@gmail.com)](mailto:necaintruder@gmail.com)
 
 ![Nemanja's github stats](https://github-readme-stats.vercel.app/api?username=nemanjap16&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjap16&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
