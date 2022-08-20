@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nemanja Pantelić.
+### I’m a self-taught front-end developer who loves to learn and create things for web.
+#### I love :coffee:
 
-### I'm fornt-end developer
-#### Love to work with React :heart:
 
 #
 <!--
