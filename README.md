@@ -1,13 +1,5 @@
 # Hi there 👋, I'm Nemanja Pantelić.
 ### I’m a self-taught front-end developer who loves to learn and create things for web.
-### I love :pizza: and :coffee:
-##
-
-<p align="center">
-🧿
-</p>
-
-##
 
 <!--
 **NemanjaP83/NemanjaP83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
