@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Nemanja Pantelić.
-### I’m a self-taught front-end developer who loves to learn and create things for web.
+#### I’m a front-end developer who loves to learn and create things for web.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nemanja_Pantelic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134//)](https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/) [![Gmail Badge](https://img.shields.io/badge/-necaintruder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necaintruder@gmail.com)](mailto:necaintruder@gmail.com)
 
 <!--
 **NemanjaP83/NemanjaP83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,12 +25,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
  -->
  
-### 📫 How to reach me: 
-[![Linkedin Badge](https://img.shields.io/badge/-Nemanja_Pantelic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134//)](https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/) [![Gmail Badge](https://img.shields.io/badge/-necaintruder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necaintruder@gmail.com)](mailto:necaintruder@gmail.com)
+
 ___
 ### Stats
-![Nemanja's github stats](https://github-readme-stats.vercel.app/api?username=nemanjap16&show_icons=true&theme=dark)
+![Nemanja's github stats](https://github-readme-stats.vercel.app/api?username=nemanjap16&show_icons=true&theme=light)
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjap16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjap16&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 <!--### Badges
 <a href="https://github.com/nemanjap16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemanjap16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
