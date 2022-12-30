@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Nemanja Pantelić.
-#### I’m a front-end developer who loves to learn and create things for web.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Nemanja_Pantelic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134//)](https://www.linkedin.com/in/nemanja-panteli%C4%87-101271134/) [![Gmail Badge](https://img.shields.io/badge/-necaintruder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:necaintruder@gmail.com)](mailto:necaintruder@gmail.com)
+### Hi there 👋, I'm Nemanja Pantelić.
+- 🌱 I’m interested in front-end development
+- ⚡ visit my portfolio: [portfolio](https://np16-portfolio.netlify.app/)
+- 📫 How to reach me: necaintruder@gmail.com
 
 <!--
 **NemanjaP83/NemanjaP83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
