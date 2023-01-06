@@ -7,7 +7,7 @@ Frontend developer
 I'm interested in frontend development.
 
 * 🌍  I'm based in Belgrade, Serbia
-* 🖥️  See my portfolio at [portfolio](http://https://np16-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [portfolio](https://np16-portfolio.netlify.app)
 * ✉️  You can contact me at [necaintruder@gmail.com](mailto:necaintruder@gmail.com)
 * 🧠  I'm learning React with TypeScript
 
