@@ -7,7 +7,7 @@ Frontend developer
 I'm interested in frontend development.
 
 * 🌍  I'm based in Belgrade, Serbia
-* 🖥️  See my portfolio at [portfolio](https://portfolio-nemanjap16.vercel.app/)
+* 🖥️  See my portfolio at [portfolio](https://nuxt-portfolio-plum.vercel.app/)
 * ✉️  You can contact me at [pnemanja183@gmail.com](mailto:nemanjawebdev@gmail.com)
 <!-- * 🧠  I'm learning Nuxt 3 -->
 
