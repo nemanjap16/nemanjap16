@@ -41,7 +41,7 @@ Gotovo e-commerce rešenje namenjeno malim i srednjim preduzećima. Dostupno za 
 
 <p align="left">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="36" height="36" alt="Nuxt" /></a>
+<a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="36" height="36" alt="Nuxt" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
