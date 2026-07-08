@@ -7,7 +7,7 @@ Fullstack developer · Custom e-commerce rešenja
 Sa više od 7 godina iskustva u programiranju, specijalizovan sam za pravljenje custom e-commerce rešenja za male i srednje biznise. Nudim gotov webshop koji se prilagođava svakom klijentu — prilagođavanje frontenda (stil, brending, dodatne stranice), podešavanje kategorija i filtera i ostale specifičnosti poslovanja.
 
 * 🌍  Nalazim se u Beogradu, Srbija
-* 🖥️  Portfolio: [https://portfolio-nemanja.vercel.app/](https://portfolio-nemanja.vercel.app/)
+<!-- * 🖥️  Portfolio: [https://portfolio-nemanja.vercel.app/](https://portfolio-nemanja.vercel.app/) -->
 * ✉️  Kontakt: [pnemanja183@gmail.com](mailto:pnemanja183@gmail.com)
 * 💼  Otvoren za projekte i saradnju
 
@@ -17,7 +17,7 @@ Sa više od 7 godina iskustva u programiranju, specijalizovan sam za pravljenje 
 
 Gotovo e-commerce rešenje namenjeno malim i srednjim preduzećima. Dostupno za iznajmljivanje ili kupovinu, uz prilagođavanje potrebama svakog klijenta.
 
-🔗 **Demo:** [techstore-jade.vercel.app](https://techstore-jade.vercel.app/) — funkcionalan primer webshopa sa svim mogućnostima
+<!--🔗 **Demo:** [techstore-jade.vercel.app](https://techstore-jade.vercel.app/) — funkcionalan primer webshopa sa svim mogućnostima -->
 
 **Funkcionalnosti:**
 - Katalog proizvoda sa kategorijama, pretragom, filterima, popustima i recenzijama
