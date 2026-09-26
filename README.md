@@ -4,7 +4,7 @@ Zdravo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 Fullstack developer · Custom e-commerce rešenja
 ------------------
 
-Sa više od 7 godina iskustva u programiranju, specijalizovan sam za pravljenje custom e-commerce rešenja za male i srednje biznise. Nudim gotov webshop koji se prilagođava svakom klijentu — prilagođavanje frontenda (stil, brending, dodatne stranice), podešavanje kategorija i filtera i ostale specifičnosti poslovanja.
+Sa više od 10 godina iskustva u programiranju, specijalizovan sam za pravljenje custom e-commerce rešenja za male i srednje biznise. Nudim gotov webshop koji se prilagođava svakom klijentu — prilagođavanje frontenda (stil, brending, dodatne stranice), podešavanje kategorija i filtera i ostale specifičnosti poslovanja.
 
 * 🌍  Nalazim se u Beogradu, Srbija
 <!-- * 🖥️  Portfolio: [https://portfolio-nemanja.vercel.app/](https://portfolio-nemanja.vercel.app/) -->
